@@ -25,4 +25,4 @@ This Repository Contains My Solutions To The Assignments Of The Coursera Course.
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module5_solution/)
 
 ### Course Completion Certificate
-* [Certificate](.Certificate.jpg)
+(Certificate.jpg)
